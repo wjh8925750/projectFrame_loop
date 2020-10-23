@@ -1,0 +1,1 @@
+python ./../../tools/sumo-1.3.0/tools/randomTrips.py -n pudong100.net.xml -o test.trips.xml -e 7200 --validate True -p 0.3

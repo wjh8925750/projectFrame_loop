@@ -1,0 +1,12 @@
+<routes>
+	<flow id="W2S1" color="1,0,0" from="449708369#0" to="449708064#2" begin="0" end= "600" probability="0.02" departPos="free"/>
+	<flow id="W2S2" color="1,0,0" from="449708369#0" to="449708066#2" begin="0" end= "600" probability="0.01" departPos="free"/>
+	<flow id="W2N1" color="0,0,1" from="449708369#0" to="-449708064#0" begin="0" end= "600" probability="0.02" departPos="free"/>
+	<flow id="W2N2" color="0,0,1" from="449708369#0" to="834077718#2" begin="0" end= "600" probability="0.01" departPos="free"/>
+	<flow id="W2E" color="1,1,0" from="449708369#0" to="804045899#1.50" begin="0" end= "600" probability="0.2" departPos="free"/>
+	<flow id="E2S1" color="0,0,1" from="832162248#0.582" to="449708066#2" begin="0" end= "600" probability="0.02" departPos="free"/>
+	<flow id="E2S2" color="0,0,1" from="832162248#0.582" to="449708064#2" begin="0" end= "600" probability="0.01" departPos="free"/>
+	<flow id="E2N1" color="1,0,0" from="832162248#0.582" to="834077718#2" begin="0" end= "600" probability="0.02" departPos="free"/>
+	<flow id="E2N2" color="1,0,0" from="832162248#0.582" to="-449708064#0" begin="0" end= "600" probability="0.01" departPos="free"/>
+	<flow id="E2W" color="1,1,0" from="832162248#0.582" to="449708370#1" begin="0" end= "600" probability="0.2" departPos="free"/>
+</routes>

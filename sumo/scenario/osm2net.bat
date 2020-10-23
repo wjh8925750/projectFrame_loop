@@ -1,0 +1,1 @@
+E:\\sumo-1.6.0\\bin\\netconvert.exe --osm-files map.osm -o shihuxilu.net.xml --junctions.join

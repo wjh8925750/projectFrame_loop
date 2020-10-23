@@ -1,0 +1,6 @@
+<Config>  
+	<LogLevel>CRITICAL</LogLevel>  
+	<FileMaxKb>1024</FileMaxKb>  
+	<FileMaxNum>2</FileMaxNum>  
+	<PrintToScreen>1</PrintToScreen>  
+</Config>  
